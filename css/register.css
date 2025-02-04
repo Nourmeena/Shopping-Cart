@@ -1,0 +1,19 @@
+body {
+    background: linear-gradient(#79D7BE, #2E5077) !important;
+}
+
+form {
+    margin: auto;
+    margin-top: 50px;
+    max-width: 400px;
+}
+
+.bg {
+    background-color: white;
+}
+
+.btn-color {
+    background-color: #5584b9 !important;
+    border: none !important;
+
+}

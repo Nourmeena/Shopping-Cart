@@ -1,0 +1,11 @@
+.cart-section h3,
+.cart-section h5 {
+    color: rgb(97, 96, 96);
+}
+body h3,body h5{
+    color: rgb(97, 96, 96);
+}
+
+Footer h5{
+    color:white;
+}
