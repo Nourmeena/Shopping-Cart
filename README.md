@@ -45,7 +45,7 @@ A simple, responsive e-commerce application built with **HTML, CSS, and JavaScri
 ---
 
 ## **Demo**  
-[E-commerce]( https://github.com/Nourmeena/Shopping-Cart)
+[E-commerce](https://nourmeena.github.io/Shopping-Cart/)
 
 ---
 
